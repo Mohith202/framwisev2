@@ -1,0 +1,60 @@
+body{
+    background-color:rgb(23, 24, 24);
+    margin: 5px 0px;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    text-align: left;
+    row-gap: 6.5px;
+}
+section img{
+    width: 375px;
+    height: 375px;
+}
+
+
+p{
+    color:white;
+    font-size: 25px;
+}
+
+.head {
+     color:whitesmoke;
+     font-size: 30px;
+    }
+video{
+    width:645px;
+    height: 435px;
+
+}
+hr{
+    border:dotted;
+    border-width:0.1px;
+    color:white;
+}
+a{   
+    padding:5px 23px ;
+    font-size: 20px;
+    border:solid;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    border-color: white;
+    background-color: black;
+    border-radius: 13px;
+    border-width: 1.5px;
+}
+a:hover{
+    background-color: white;
+    color:black;
+}
+.pic1{
+ width: fit-content;
+ height: 625px;
+ display: block;
+ margin: auto;
+ overflow: hidden;
+}
